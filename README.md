@@ -1,37 +1,40 @@
 # 🌙 Lunara
 
-**A productivity planner that works with your hormones, not against them.**
+**Productivity that follows your hormones.**
 
-Most planners assume you have the same energy, focus and confidence every day. Hormonal changes mean you don't. Lunara helps you plan your work around the energy you actually have: when to take on the big presentation, when to do deep focused work, and when to slow down without guilt.
+Your hormones shift through the month, and your energy, focus and confidence shift with them. Yet every productivity tool treats every day the same.
+
+Lunara is a **hormone-aware productivity planner**. It works out which phase of your cycle you're in and turns that into a plan for your work: when to start new projects, when to pitch and present, when to finish and polish, and when to step back and review.
 
 **[Try it live → lunara.cewinsm.workers.dev](https://lunara.cewinsm.workers.dev)**
 
 ---
 
-## The idea
+## Why it's different
 
-Your cycle moves through four phases, and each one tends to bring a different kind of energy:
+**Period trackers** tell you where you are in your cycle. **Planners** organise your work. Neither connects the two.
 
-| | Phase | Energy |
-|---|---|---|
-| 🌑 | **Rest & Reflect** | Low |
-| 🌱 | **Rise & Begin** | Steady |
-| ☀️ | **Peak & Connect** | High |
-| 🍂 | **Refine & Finish** | Steady |
+Lunara does. It answers a different question: *what kind of work am I best set up for today, and when should I schedule the work that matters most?*
 
-Lunara tells you which phase you're in today and what kind of work suits it, and the whole app changes colour to match.
+## Four phases, four ways of working
+
+| | Phase | What's shifting | Best for |
+|---|---|---|---|
+| 🌑 | **Rest & Reflect** | Estrogen and progesterone at their lowest | Reviewing, reflecting and deciding |
+| 🌱 | **Rise & Begin** | Estrogen rising | Starting, planning and learning |
+| ☀️ | **Peak & Connect** | Estrogen peaks, testosterone lifts | Pitching, presenting and negotiating |
+| 🍂 | **Refine & Finish** | Progesterone takes the lead | Finishing, editing and organising |
 
 ## Features
 
-- **Today:** your cycle day, current phase, energy level, focus ideas, your next high-energy window and a quick mood check-in
+- **Today:** your current phase, what it means for your work, and focus ideas matched to it
+- **Plan ahead:** see your next peak window for pitches and big meetings, and when to keep things lighter
+- **Planner:** a calendar coloured by phase, so you can schedule high-stakes work on your strongest days
 - **Learns your rhythm:** starts from your averages, then becomes more personal with every period you log
-- **Planner:** a calendar coloured by phase, so you can see your high- and low-energy days weeks ahead and schedule around them
-- **Toolkit:** ideas for nourishing, moving, connecting and resting in each phase
-- **Partners:** a shareable guide so the people around you know how to support you
-- **Journal, Habits and Goals:** with habit streaks
-- **Insights:** your patterns over time
 - **ADHD-friendly mode:** one focus task at a time, a built-in focus timer, and calmer motion
-- **Your data, your control:** sync across devices, download everything, or delete your account any time
+- **Toolkit and Partners:** phase-by-phase ideas for wellbeing, and a shareable guide so the people around you know how to support you
+- **Journal, Habits, Goals and Insights:** track what matters and spot your patterns
+- **Your data, your control:** synced across devices, private by design, and easy to download or delete
 
 ## Built with
 
@@ -39,6 +42,6 @@ Plain HTML, CSS and JavaScript, Cloudflare Workers and Cloudflare D1, with no th
 
 ---
 
-*Lunara is a planning tool, not medical advice, and must not be used as contraception.*
+*Lunara is a planning tool, not medical advice, and must not be used as contraception. Everyone's cycle is different; phase guidance describes common patterns, not rules.*
 
 © 2026 Lunara. All rights reserved. The source code is private.
