@@ -23,7 +23,8 @@ Lunara tells you which phase you're in today and what kind of work suits it, and
 
 ## Features
 
-- **Today:** your cycle day, current phase, energy level, focus ideas and a quick mood check-in
+- **Today:** your cycle day, current phase, energy level, focus ideas, your next high-energy window and a quick mood check-in
+- **Learns your rhythm:** starts from your averages, then becomes more personal with every period you log
 - **Planner:** a calendar coloured by phase, so you can see your high- and low-energy days weeks ahead and schedule around them
 - **Toolkit:** ideas for nourishing, moving, connecting and resting in each phase
 - **Partners:** a shareable guide so the people around you know how to support you
