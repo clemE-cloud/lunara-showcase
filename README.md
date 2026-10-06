@@ -30,6 +30,8 @@ Lunara does. It answers a different question: *what kind of work am I best set u
 - **Today:** your current phase, what it means for your work, and focus ideas matched to it
 - **Plan ahead:** see your next peak window for pitches and big meetings, and when to keep things lighter
 - **Planner:** a calendar coloured by phase, so you can schedule high-stakes work on your strongest days
+- **Share your forecast:** turn today's phase into a story-ready card for Instagram and TikTok
+- **Install it like an app:** add Lunara to your home screen in one tap
 - **Learns your rhythm:** starts from your averages, then becomes more personal with every period you log
 - **ADHD-friendly mode:** one focus task at a time, a built-in focus timer, and calmer motion
 - **Toolkit and Partners:** phase-by-phase ideas for wellbeing, and a shareable guide so the people around you know how to support you
